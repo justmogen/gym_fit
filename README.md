@@ -1,2 +1,2 @@
 # gym_fit
-Contains animations and youtube videos for different exercises
+Contains animations from RapidAPI and youtube videos for different gym workouts
